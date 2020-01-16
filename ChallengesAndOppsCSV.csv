@@ -1,19 +1,21 @@
-Keyword,Training Package Count,Instances
-Automation,36,144
-Software,12,25
-Cyber,17,167
+Keyword,TP Count,Instances
 Data,36,319
 Digital,38,277
-Computing,20,40
-Autonomous,12,49
+Cybersecurity,18,184
+Automation,36,144
+Digital Literacy,22,110
+Big data,19,73
+Data analytics,23,72
 Online,17,57
+Autonomous,12,49
+Computing,20,40
+AI,20,38
+Programming,16,31
+Robotics,17,29
+Software,12,25
+VR/AR,15,21
+Internet,15,21
 Mobile,12,20
 Cloud,13,19
-Programming,16,31
-Digital Literacy,22,110
-AI,20,38
-VR/AR,15,21
-Robotics,17,29
 IoT,11,19
 Wireless,4,7
-Internet,15,21
