@@ -1,0 +1,528 @@
+﻿Year,ANZSCO,Occupation,Skill Level,Automation probability,Employed total,Share of workforce (%),Sub-Major Group,Major Group
+1988,2412,Primary School Teachers,1,5.7,107389,1.52,Education Professionals,Professionals
+1989,2412,Primary School Teachers,1,5.7,103743,1.4,Education Professionals,Professionals
+1990,2412,Primary School Teachers,1,5.7,113932,1.52,Education Professionals,Professionals
+1991,2412,Primary School Teachers,1,5.7,107958,1.48,Education Professionals,Professionals
+1992,2412,Primary School Teachers,1,5.7,111885,1.54,Education Professionals,Professionals
+1993,2412,Primary School Teachers,1,5.7,120279,1.65,Education Professionals,Professionals
+1994,2412,Primary School Teachers,1,5.7,115521,1.54,Education Professionals,Professionals
+1995,2412,Primary School Teachers,1,5.7,118265,1.51,Education Professionals,Professionals
+1996,2412,Primary School Teachers,1,5.7,112280,1.42,Education Professionals,Professionals
+1997,2412,Primary School Teachers,1,5.7,121112,1.52,Education Professionals,Professionals
+1998,2412,Primary School Teachers,1,5.7,122971,1.52,Education Professionals,Professionals
+1999,2412,Primary School Teachers,1,5.7,129500,1.57,Education Professionals,Professionals
+2000,2412,Primary School Teachers,1,5.7,124008,1.46,Education Professionals,Professionals
+2001,2412,Primary School Teachers,1,5.7,137586,1.6,Education Professionals,Professionals
+2002,2412,Primary School Teachers,1,5.7,130711,1.49,Education Professionals,Professionals
+2003,2412,Primary School Teachers,1,5.7,137016,1.53,Education Professionals,Professionals
+2004,2412,Primary School Teachers,1,5.7,138751,1.54,Education Professionals,Professionals
+2005,2412,Primary School Teachers,1,5.7,132466,1.42,Education Professionals,Professionals
+2006,2412,Primary School Teachers,1,5.7,140375,1.46,Education Professionals,Professionals
+2007,2412,Primary School Teachers,1,5.7,140908,1.42,Education Professionals,Professionals
+2008,2412,Primary School Teachers,1,5.7,146783,1.44,Education Professionals,Professionals
+2009,2412,Primary School Teachers,1,5.7,130706,1.28,Education Professionals,Professionals
+2010,2412,Primary School Teachers,1,5.7,146840,1.42,Education Professionals,Professionals
+2011,2412,Primary School Teachers,1,5.7,145832,1.38,Education Professionals,Professionals
+2012,2412,Primary School Teachers,1,5.7,141009,1.32,Education Professionals,Professionals
+2013,2412,Primary School Teachers,1,5.7,151927,1.42,Education Professionals,Professionals
+2014,2412,Primary School Teachers,1,5.7,150696,1.4,Education Professionals,Professionals
+2015,2412,Primary School Teachers,1,5.7,148390,1.36,Education Professionals,Professionals
+2016,2412,Primary School Teachers,1,5.7,145243,1.31,Education Professionals,Professionals
+2017,2412,Primary School Teachers,1,5.7,158856,1.38,Education Professionals,Professionals
+2018,2412,Primary School Teachers,1,5.7,165836,1.4,Education Professionals,Professionals
+1988,2414,Secondary School Teachers,1,0.8,110247,1.56,Education Professionals,Professionals
+1989,2414,Secondary School Teachers,1,0.8,115327,1.56,Education Professionals,Professionals
+1990,2414,Secondary School Teachers,1,0.8,111393,1.48,Education Professionals,Professionals
+1991,2414,Secondary School Teachers,1,0.8,117324,1.6,Education Professionals,Professionals
+1992,2414,Secondary School Teachers,1,0.8,122356,1.68,Education Professionals,Professionals
+1993,2414,Secondary School Teachers,1,0.8,117324,1.61,Education Professionals,Professionals
+1994,2414,Secondary School Teachers,1,0.8,111055,1.48,Education Professionals,Professionals
+1995,2414,Secondary School Teachers,1,0.8,118858,1.52,Education Professionals,Professionals
+1996,2414,Secondary School Teachers,1,0.8,112534,1.42,Education Professionals,Professionals
+1997,2414,Secondary School Teachers,1,0.8,114975,1.44,Education Professionals,Professionals
+1998,2414,Secondary School Teachers,1,0.8,113203,1.39,Education Professionals,Professionals
+1999,2414,Secondary School Teachers,1,0.8,118880,1.44,Education Professionals,Professionals
+2000,2414,Secondary School Teachers,1,0.8,115657,1.36,Education Professionals,Professionals
+2001,2414,Secondary School Teachers,1,0.8,119162,1.38,Education Professionals,Professionals
+2002,2414,Secondary School Teachers,1,0.8,129716,1.48,Education Professionals,Professionals
+2003,2414,Secondary School Teachers,1,0.8,129163,1.44,Education Professionals,Professionals
+2004,2414,Secondary School Teachers,1,0.8,129034,1.43,Education Professionals,Professionals
+2005,2414,Secondary School Teachers,1,0.8,130537,1.4,Education Professionals,Professionals
+2006,2414,Secondary School Teachers,1,0.8,130996,1.36,Education Professionals,Professionals
+2007,2414,Secondary School Teachers,1,0.8,133079,1.35,Education Professionals,Professionals
+2008,2414,Secondary School Teachers,1,0.8,131178,1.29,Education Professionals,Professionals
+2009,2414,Secondary School Teachers,1,0.8,138800,1.36,Education Professionals,Professionals
+2010,2414,Secondary School Teachers,1,0.8,139332,1.34,Education Professionals,Professionals
+2011,2414,Secondary School Teachers,1,0.8,127794,1.21,Education Professionals,Professionals
+2012,2414,Secondary School Teachers,1,0.8,134854,1.26,Education Professionals,Professionals
+2013,2414,Secondary School Teachers,1,0.8,132527,1.24,Education Professionals,Professionals
+2014,2414,Secondary School Teachers,1,0.8,122272,1.14,Education Professionals,Professionals
+2015,2414,Secondary School Teachers,1,0.8,138305,1.26,Education Professionals,Professionals
+2016,2414,Secondary School Teachers,1,0.8,135552,1.22,Education Professionals,Professionals
+2017,2414,Secondary School Teachers,1,0.8,134148,1.17,Education Professionals,Professionals
+2018,2414,Secondary School Teachers,1,0.8,137364,1.16,Education Professionals,Professionals
+1988,2422,Vocational Education Teachers,1,5.3,27763,0.39,Education Professionals,Professionals
+1989,2422,Vocational Education Teachers,1,5.3,28783,0.39,Education Professionals,Professionals
+1990,2422,Vocational Education Teachers,1,5.3,34942,0.46,Education Professionals,Professionals
+1991,2422,Vocational Education Teachers,1,5.3,29410,0.4,Education Professionals,Professionals
+1992,2422,Vocational Education Teachers,1,5.3,34560,0.47,Education Professionals,Professionals
+1993,2422,Vocational Education Teachers,1,5.3,29460,0.4,Education Professionals,Professionals
+1994,2422,Vocational Education Teachers,1,5.3,30951,0.41,Education Professionals,Professionals
+1995,2422,Vocational Education Teachers,1,5.3,32259,0.41,Education Professionals,Professionals
+1996,2422,Vocational Education Teachers,1,5.3,37927,0.48,Education Professionals,Professionals
+1997,2422,Vocational Education Teachers,1,5.3,35285,0.44,Education Professionals,Professionals
+1998,2422,Vocational Education Teachers,1,5.3,33774,0.41,Education Professionals,Professionals
+1999,2422,Vocational Education Teachers,1,5.3,29741,0.36,Education Professionals,Professionals
+2000,2422,Vocational Education Teachers,1,5.3,31313,0.37,Education Professionals,Professionals
+2001,2422,Vocational Education Teachers,1,5.3,30581,0.35,Education Professionals,Professionals
+2002,2422,Vocational Education Teachers,1,5.3,33230,0.38,Education Professionals,Professionals
+2003,2422,Vocational Education Teachers,1,5.3,35332,0.39,Education Professionals,Professionals
+2004,2422,Vocational Education Teachers,1,5.3,33982,0.37,Education Professionals,Professionals
+2005,2422,Vocational Education Teachers,1,5.3,30528,0.32,Education Professionals,Professionals
+2006,2422,Vocational Education Teachers,1,5.3,33278,0.34,Education Professionals,Professionals
+2007,2422,Vocational Education Teachers,1,5.3,36610,0.37,Education Professionals,Professionals
+2008,2422,Vocational Education Teachers,1,5.3,41267,0.4,Education Professionals,Professionals
+2009,2422,Vocational Education Teachers,1,5.3,41878,0.41,Education Professionals,Professionals
+2010,2422,Vocational Education Teachers,1,5.3,35765,0.34,Education Professionals,Professionals
+2011,2422,Vocational Education Teachers,1,5.3,35026,0.33,Education Professionals,Professionals
+2012,2422,Vocational Education Teachers,1,5.3,37352,0.35,Education Professionals,Professionals
+2013,2422,Vocational Education Teachers,1,5.3,37851,0.35,Education Professionals,Professionals
+2014,2422,Vocational Education Teachers,1,5.3,33578,0.31,Education Professionals,Professionals
+2015,2422,Vocational Education Teachers,1,5.3,33386,0.3,Education Professionals,Professionals
+2016,2422,Vocational Education Teachers,1,5.3,29053,0.26,Education Professionals,Professionals
+2017,2422,Vocational Education Teachers,1,5.3,32883,0.28,Education Professionals,Professionals
+2018,2422,Vocational Education Teachers,1,5.3,30029,0.25,Education Professionals,Professionals
+1988,5111,"Contract, Program and Project Administrators",2,34.7,13974,0.19,Office Managers and Program Administrators,Clerical and Administrative Workers
+1989,5111,"Contract, Program and Project Administrators",2,34.7,14733,0.2,Office Managers and Program Administrators,Clerical and Administrative Workers
+1990,5111,"Contract, Program and Project Administrators",2,34.7,12301,0.16,Office Managers and Program Administrators,Clerical and Administrative Workers
+1991,5111,"Contract, Program and Project Administrators",2,34.7,9187,0.12,Office Managers and Program Administrators,Clerical and Administrative Workers
+1992,5111,"Contract, Program and Project Administrators",2,34.7,9147,0.12,Office Managers and Program Administrators,Clerical and Administrative Workers
+1993,5111,"Contract, Program and Project Administrators",2,34.7,10973,0.15,Office Managers and Program Administrators,Clerical and Administrative Workers
+1994,5111,"Contract, Program and Project Administrators",2,34.7,10498,0.13,Office Managers and Program Administrators,Clerical and Administrative Workers
+1995,5111,"Contract, Program and Project Administrators",2,34.7,10163,0.13,Office Managers and Program Administrators,Clerical and Administrative Workers
+1996,5111,"Contract, Program and Project Administrators",2,34.7,16108,0.2,Office Managers and Program Administrators,Clerical and Administrative Workers
+1997,5111,"Contract, Program and Project Administrators",2,34.7,21819,0.27,Office Managers and Program Administrators,Clerical and Administrative Workers
+1998,5111,"Contract, Program and Project Administrators",2,34.7,25283,0.31,Office Managers and Program Administrators,Clerical and Administrative Workers
+1999,5111,"Contract, Program and Project Administrators",2,34.7,39674,0.48,Office Managers and Program Administrators,Clerical and Administrative Workers
+2000,5111,"Contract, Program and Project Administrators",2,34.7,44753,0.52,Office Managers and Program Administrators,Clerical and Administrative Workers
+2001,5111,"Contract, Program and Project Administrators",2,34.7,47630,0.55,Office Managers and Program Administrators,Clerical and Administrative Workers
+2002,5111,"Contract, Program and Project Administrators",2,34.7,47817,0.54,Office Managers and Program Administrators,Clerical and Administrative Workers
+2003,5111,"Contract, Program and Project Administrators",2,34.7,52275,0.58,Office Managers and Program Administrators,Clerical and Administrative Workers
+2004,5111,"Contract, Program and Project Administrators",2,34.7,55546,0.61,Office Managers and Program Administrators,Clerical and Administrative Workers
+2005,5111,"Contract, Program and Project Administrators",2,34.7,61406,0.66,Office Managers and Program Administrators,Clerical and Administrative Workers
+2006,5111,"Contract, Program and Project Administrators",2,34.7,64971,0.67,Office Managers and Program Administrators,Clerical and Administrative Workers
+2007,5111,"Contract, Program and Project Administrators",2,34.7,70939,0.71,Office Managers and Program Administrators,Clerical and Administrative Workers
+2008,5111,"Contract, Program and Project Administrators",2,34.7,84100,0.82,Office Managers and Program Administrators,Clerical and Administrative Workers
+2009,5111,"Contract, Program and Project Administrators",2,34.7,92470,0.91,Office Managers and Program Administrators,Clerical and Administrative Workers
+2010,5111,"Contract, Program and Project Administrators",2,34.7,102241,0.98,Office Managers and Program Administrators,Clerical and Administrative Workers
+2011,5111,"Contract, Program and Project Administrators",2,34.7,95062,0.9,Office Managers and Program Administrators,Clerical and Administrative Workers
+2012,5111,"Contract, Program and Project Administrators",2,34.7,101632,0.95,Office Managers and Program Administrators,Clerical and Administrative Workers
+2013,5111,"Contract, Program and Project Administrators",2,34.7,122641,1.14,Office Managers and Program Administrators,Clerical and Administrative Workers
+2014,5111,"Contract, Program and Project Administrators",2,34.7,112783,1.05,Office Managers and Program Administrators,Clerical and Administrative Workers
+2015,5111,"Contract, Program and Project Administrators",2,34.7,126088,1.15,Office Managers and Program Administrators,Clerical and Administrative Workers
+2016,5111,"Contract, Program and Project Administrators",2,34.7,118676,1.07,Office Managers and Program Administrators,Clerical and Administrative Workers
+2017,5111,"Contract, Program and Project Administrators",2,34.7,116091,1.01,Office Managers and Program Administrators,Clerical and Administrative Workers
+2018,5111,"Contract, Program and Project Administrators",2,34.7,114050,0.96,Office Managers and Program Administrators,Clerical and Administrative Workers
+1988,5121,Office Managers,2,1.4,62776,0.89,Office Managers and Program Administrators,Clerical and Administrative Workers
+1989,5121,Office Managers,2,1.4,66523,0.9,Office Managers and Program Administrators,Clerical and Administrative Workers
+1990,5121,Office Managers,2,1.4,67635,0.9,Office Managers and Program Administrators,Clerical and Administrative Workers
+1991,5121,Office Managers,2,1.4,69014,0.94,Office Managers and Program Administrators,Clerical and Administrative Workers
+1992,5121,Office Managers,2,1.4,66561,0.91,Office Managers and Program Administrators,Clerical and Administrative Workers
+1993,5121,Office Managers,2,1.4,67799,0.93,Office Managers and Program Administrators,Clerical and Administrative Workers
+1994,5121,Office Managers,2,1.4,70113,0.93,Office Managers and Program Administrators,Clerical and Administrative Workers
+1995,5121,Office Managers,2,1.4,74176,0.95,Office Managers and Program Administrators,Clerical and Administrative Workers
+1996,5121,Office Managers,2,1.4,66399,0.84,Office Managers and Program Administrators,Clerical and Administrative Workers
+1997,5121,Office Managers,2,1.4,63581,0.79,Office Managers and Program Administrators,Clerical and Administrative Workers
+1998,5121,Office Managers,2,1.4,63591,0.78,Office Managers and Program Administrators,Clerical and Administrative Workers
+1999,5121,Office Managers,2,1.4,68105,0.82,Office Managers and Program Administrators,Clerical and Administrative Workers
+2000,5121,Office Managers,2,1.4,77526,0.91,Office Managers and Program Administrators,Clerical and Administrative Workers
+2001,5121,Office Managers,2,1.4,82779,0.96,Office Managers and Program Administrators,Clerical and Administrative Workers
+2002,5121,Office Managers,2,1.4,86929,0.99,Office Managers and Program Administrators,Clerical and Administrative Workers
+2003,5121,Office Managers,2,1.4,101507,1.13,Office Managers and Program Administrators,Clerical and Administrative Workers
+2004,5121,Office Managers,2,1.4,114324,1.26,Office Managers and Program Administrators,Clerical and Administrative Workers
+2005,5121,Office Managers,2,1.4,141098,1.51,Office Managers and Program Administrators,Clerical and Administrative Workers
+2006,5121,Office Managers,2,1.4,141199,1.47,Office Managers and Program Administrators,Clerical and Administrative Workers
+2007,5121,Office Managers,2,1.4,159119,1.61,Office Managers and Program Administrators,Clerical and Administrative Workers
+2008,5121,Office Managers,2,1.4,133579,1.31,Office Managers and Program Administrators,Clerical and Administrative Workers
+2009,5121,Office Managers,2,1.4,130029,1.28,Office Managers and Program Administrators,Clerical and Administrative Workers
+2010,5121,Office Managers,2,1.4,128918,1.24,Office Managers and Program Administrators,Clerical and Administrative Workers
+2011,5121,Office Managers,2,1.4,139123,1.32,Office Managers and Program Administrators,Clerical and Administrative Workers
+2012,5121,Office Managers,2,1.4,144868,1.36,Office Managers and Program Administrators,Clerical and Administrative Workers
+2013,5121,Office Managers,2,1.4,127293,1.19,Office Managers and Program Administrators,Clerical and Administrative Workers
+2014,5121,Office Managers,2,1.4,124495,1.16,Office Managers and Program Administrators,Clerical and Administrative Workers
+2015,5121,Office Managers,2,1.4,131133,1.2,Office Managers and Program Administrators,Clerical and Administrative Workers
+2016,5121,Office Managers,2,1.4,141852,1.28,Office Managers and Program Administrators,Clerical and Administrative Workers
+2017,5121,Office Managers,2,1.4,124582,1.09,Office Managers and Program Administrators,Clerical and Administrative Workers
+2018,5121,Office Managers,2,1.4,138949,1.17,Office Managers and Program Administrators,Clerical and Administrative Workers
+1988,5211,Personal Assistants,3,85.1,75117,1.06,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1989,5211,Personal Assistants,3,85.1,78148,1.06,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1990,5211,Personal Assistants,3,85.1,80307,1.07,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1991,5211,Personal Assistants,3,85.1,77182,1.05,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1992,5211,Personal Assistants,3,85.1,76465,1.05,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1993,5211,Personal Assistants,3,85.1,71620,0.98,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1994,5211,Personal Assistants,3,85.1,74481,0.99,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1995,5211,Personal Assistants,3,85.1,75408,0.96,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1996,5211,Personal Assistants,3,85.1,80820,1.02,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1997,5211,Personal Assistants,3,85.1,80983,1.01,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1998,5211,Personal Assistants,3,85.1,80081,0.99,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1999,5211,Personal Assistants,3,85.1,74223,0.9,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2000,5211,Personal Assistants,3,85.1,75232,0.88,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2001,5211,Personal Assistants,3,85.1,72508,0.84,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2002,5211,Personal Assistants,3,85.1,71787,0.82,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2003,5211,Personal Assistants,3,85.1,66095,0.73,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2004,5211,Personal Assistants,3,85.1,61469,0.68,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2005,5211,Personal Assistants,3,85.1,64906,0.69,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2006,5211,Personal Assistants,3,85.1,59822,0.62,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2007,5211,Personal Assistants,3,85.1,59961,0.6,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2008,5211,Personal Assistants,3,85.1,55131,0.54,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2009,5211,Personal Assistants,3,85.1,49880,0.49,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2010,5211,Personal Assistants,3,85.1,56270,0.54,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2011,5211,Personal Assistants,3,85.1,59526,0.56,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2012,5211,Personal Assistants,3,85.1,53771,0.5,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2013,5211,Personal Assistants,3,85.1,54608,0.51,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2014,5211,Personal Assistants,3,85.1,62462,0.58,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2015,5211,Personal Assistants,3,85.1,51766,0.47,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2016,5211,Personal Assistants,3,85.1,47249,0.42,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2017,5211,Personal Assistants,3,85.1,48839,0.42,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2018,5211,Personal Assistants,3,85.1,48856,0.41,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1988,5212,Secretaries,3,95.4,129984,1.84,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1989,5212,Secretaries,3,95.4,135228,1.83,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1990,5212,Secretaries,3,95.4,138964,1.85,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1991,5212,Secretaries,3,95.4,133556,1.83,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1992,5212,Secretaries,3,95.4,132315,1.82,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1993,5212,Secretaries,3,95.4,123932,1.7,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1994,5212,Secretaries,3,95.4,128883,1.71,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1995,5212,Secretaries,3,95.4,130486,1.67,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1996,5212,Secretaries,3,95.4,139852,1.77,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1997,5212,Secretaries,3,95.4,140133,1.76,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1998,5212,Secretaries,3,95.4,138574,1.71,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1999,5212,Secretaries,3,95.4,128436,1.55,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2000,5212,Secretaries,3,95.4,130183,1.53,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2001,5212,Secretaries,3,95.4,125469,1.46,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2002,5212,Secretaries,3,95.4,124222,1.42,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2003,5212,Secretaries,3,95.4,114371,1.27,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2004,5212,Secretaries,3,95.4,106367,1.18,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2005,5212,Secretaries,3,95.4,112315,1.2,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2006,5212,Secretaries,3,95.4,108230,1.13,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2007,5212,Secretaries,3,95.4,109796,1.11,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2008,5212,Secretaries,3,95.4,105878,1.04,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2009,5212,Secretaries,3,95.4,87282,0.85,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2010,5212,Secretaries,3,95.4,76483,0.74,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2011,5212,Secretaries,3,95.4,73896,0.7,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2012,5212,Secretaries,3,95.4,72271,0.67,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2013,5212,Secretaries,3,95.4,64120,0.6,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2014,5212,Secretaries,3,95.4,54682,0.51,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2015,5212,Secretaries,3,95.4,49457,0.45,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2016,5212,Secretaries,3,95.4,48474,0.43,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2017,5212,Secretaries,3,95.4,47815,0.41,Personal Assistants and Secretaries,Clerical and Administrative Workers
+2018,5212,Secretaries,3,95.4,41708,0.35,Personal Assistants and Secretaries,Clerical and Administrative Workers
+1988,5311,General Clerks,4,96,76383,1.08,General Clerical Workers,Clerical and Administrative Workers
+1989,5311,General Clerks,4,96,78829,1.07,General Clerical Workers,Clerical and Administrative Workers
+1990,5311,General Clerks,4,96,79975,1.06,General Clerical Workers,Clerical and Administrative Workers
+1991,5311,General Clerks,4,96,79017,1.08,General Clerical Workers,Clerical and Administrative Workers
+1992,5311,General Clerks,4,96,76272,1.05,General Clerical Workers,Clerical and Administrative Workers
+1993,5311,General Clerks,4,96,76160,1.04,General Clerical Workers,Clerical and Administrative Workers
+1994,5311,General Clerks,4,96,79005,1.05,General Clerical Workers,Clerical and Administrative Workers
+1995,5311,General Clerks,4,96,80964,1.03,General Clerical Workers,Clerical and Administrative Workers
+1996,5311,General Clerks,4,96,76883,0.97,General Clerical Workers,Clerical and Administrative Workers
+1997,5311,General Clerks,4,96,71293,0.89,General Clerical Workers,Clerical and Administrative Workers
+1998,5311,General Clerks,4,96,71188,0.88,General Clerical Workers,Clerical and Administrative Workers
+1999,5311,General Clerks,4,96,67563,0.81,General Clerical Workers,Clerical and Administrative Workers
+2000,5311,General Clerks,4,96,88647,1.04,General Clerical Workers,Clerical and Administrative Workers
+2001,5311,General Clerks,4,96,103582,1.2,General Clerical Workers,Clerical and Administrative Workers
+2002,5311,General Clerks,4,96,119592,1.36,General Clerical Workers,Clerical and Administrative Workers
+2003,5311,General Clerks,4,96,136285,1.52,General Clerical Workers,Clerical and Administrative Workers
+2004,5311,General Clerks,4,96,171048,1.89,General Clerical Workers,Clerical and Administrative Workers
+2005,5311,General Clerks,4,96,138971,1.49,General Clerical Workers,Clerical and Administrative Workers
+2006,5311,General Clerks,4,96,122527,1.28,General Clerical Workers,Clerical and Administrative Workers
+2007,5311,General Clerks,4,96,133650,1.35,General Clerical Workers,Clerical and Administrative Workers
+2008,5311,General Clerks,4,96,136060,1.34,General Clerical Workers,Clerical and Administrative Workers
+2009,5311,General Clerks,4,96,153099,1.5,General Clerical Workers,Clerical and Administrative Workers
+2010,5311,General Clerks,4,96,180901,1.75,General Clerical Workers,Clerical and Administrative Workers
+2011,5311,General Clerks,4,96,184582,1.75,General Clerical Workers,Clerical and Administrative Workers
+2012,5311,General Clerks,4,96,212456,1.99,General Clerical Workers,Clerical and Administrative Workers
+2013,5311,General Clerks,4,96,212341,1.98,General Clerical Workers,Clerical and Administrative Workers
+2014,5311,General Clerks,4,96,243613,2.27,General Clerical Workers,Clerical and Administrative Workers
+2015,5311,General Clerks,4,96,233494,2.14,General Clerical Workers,Clerical and Administrative Workers
+2016,5311,General Clerks,4,96,244341,2.21,General Clerical Workers,Clerical and Administrative Workers
+2017,5311,General Clerks,4,96,227625,1.99,General Clerical Workers,Clerical and Administrative Workers
+2018,5311,General Clerks,4,96,251117,2.13,General Clerical Workers,Clerical and Administrative Workers
+1988,5321,Keyboard Operators,4,95.1,134210,1.9,General Clerical Workers,Clerical and Administrative Workers
+1989,5321,Keyboard Operators,4,95.1,137069,1.86,General Clerical Workers,Clerical and Administrative Workers
+1990,5321,Keyboard Operators,4,95.1,126550,1.69,General Clerical Workers,Clerical and Administrative Workers
+1991,5321,Keyboard Operators,4,95.1,125039,1.71,General Clerical Workers,Clerical and Administrative Workers
+1992,5321,Keyboard Operators,4,95.1,117116,1.61,General Clerical Workers,Clerical and Administrative Workers
+1993,5321,Keyboard Operators,4,95.1,118297,1.62,General Clerical Workers,Clerical and Administrative Workers
+1994,5321,Keyboard Operators,4,95.1,125610,1.67,General Clerical Workers,Clerical and Administrative Workers
+1995,5321,Keyboard Operators,4,95.1,121830,1.56,General Clerical Workers,Clerical and Administrative Workers
+1996,5321,Keyboard Operators,4,95.1,120612,1.52,General Clerical Workers,Clerical and Administrative Workers
+1997,5321,Keyboard Operators,4,95.1,108958,1.37,General Clerical Workers,Clerical and Administrative Workers
+1998,5321,Keyboard Operators,4,95.1,125902,1.55,General Clerical Workers,Clerical and Administrative Workers
+1999,5321,Keyboard Operators,4,95.1,130466,1.58,General Clerical Workers,Clerical and Administrative Workers
+2000,5321,Keyboard Operators,4,95.1,135809,1.6,General Clerical Workers,Clerical and Administrative Workers
+2001,5321,Keyboard Operators,4,95.1,114809,1.33,General Clerical Workers,Clerical and Administrative Workers
+2002,5321,Keyboard Operators,4,95.1,101634,1.16,General Clerical Workers,Clerical and Administrative Workers
+2003,5321,Keyboard Operators,4,95.1,98754,1.1,General Clerical Workers,Clerical and Administrative Workers
+2004,5321,Keyboard Operators,4,95.1,81212,0.9,General Clerical Workers,Clerical and Administrative Workers
+2005,5321,Keyboard Operators,4,95.1,80706,0.86,General Clerical Workers,Clerical and Administrative Workers
+2006,5321,Keyboard Operators,4,95.1,96370,1,General Clerical Workers,Clerical and Administrative Workers
+2007,5321,Keyboard Operators,4,95.1,91008,0.92,General Clerical Workers,Clerical and Administrative Workers
+2008,5321,Keyboard Operators,4,95.1,103832,1.02,General Clerical Workers,Clerical and Administrative Workers
+2009,5321,Keyboard Operators,4,95.1,78213,0.77,General Clerical Workers,Clerical and Administrative Workers
+2010,5321,Keyboard Operators,4,95.1,74840,0.72,General Clerical Workers,Clerical and Administrative Workers
+2011,5321,Keyboard Operators,4,95.1,76118,0.72,General Clerical Workers,Clerical and Administrative Workers
+2012,5321,Keyboard Operators,4,95.1,59419,0.55,General Clerical Workers,Clerical and Administrative Workers
+2013,5321,Keyboard Operators,4,95.1,63455,0.59,General Clerical Workers,Clerical and Administrative Workers
+2014,5321,Keyboard Operators,4,95.1,52886,0.49,General Clerical Workers,Clerical and Administrative Workers
+2015,5321,Keyboard Operators,4,95.1,51518,0.47,General Clerical Workers,Clerical and Administrative Workers
+2016,5321,Keyboard Operators,4,95.1,59107,0.53,General Clerical Workers,Clerical and Administrative Workers
+2017,5321,Keyboard Operators,4,95.1,66067,0.57,General Clerical Workers,Clerical and Administrative Workers
+2018,5321,Keyboard Operators,4,95.1,65560,0.55,General Clerical Workers,Clerical and Administrative Workers
+1988,5412,Information Officers,4,95.9,27789,0.39,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+1989,5412,Information Officers,4,95.9,29020,0.39,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+1990,5412,Information Officers,4,95.9,29935,0.4,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+1991,5412,Information Officers,4,95.9,30684,0.42,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+1992,5412,Information Officers,4,95.9,30415,0.41,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+1993,5412,Information Officers,4,95.9,34496,0.47,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+1994,5412,Information Officers,4,95.9,35330,0.47,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+1995,5412,Information Officers,4,95.9,35915,0.46,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+1996,5412,Information Officers,4,95.9,35728,0.45,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+1997,5412,Information Officers,4,95.9,41195,0.51,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+1998,5412,Information Officers,4,95.9,40573,0.5,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+1999,5412,Information Officers,4,95.9,51952,0.63,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2000,5412,Information Officers,4,95.9,52373,0.61,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2001,5412,Information Officers,4,95.9,54338,0.63,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2002,5412,Information Officers,4,95.9,55791,0.63,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2003,5412,Information Officers,4,95.9,59652,0.66,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2004,5412,Information Officers,4,95.9,51110,0.56,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2005,5412,Information Officers,4,95.9,61780,0.66,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2006,5412,Information Officers,4,95.9,70483,0.73,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2007,5412,Information Officers,4,95.9,65983,0.66,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2008,5412,Information Officers,4,95.9,65327,0.64,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2009,5412,Information Officers,4,95.9,76884,0.75,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2010,5412,Information Officers,4,95.9,63824,0.61,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2011,5412,Information Officers,4,95.9,68745,0.65,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2012,5412,Information Officers,4,95.9,64696,0.6,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2013,5412,Information Officers,4,95.9,67527,0.63,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2014,5412,Information Officers,4,95.9,71403,0.66,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2015,5412,Information Officers,4,95.9,72106,0.66,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2016,5412,Information Officers,4,95.9,75303,0.68,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2017,5412,Information Officers,4,95.9,69679,0.6,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+2018,5412,Information Officers,4,95.9,73952,0.62,Inquiry Clerks and Receptionists,Clerical and Administrative Workers
+1988,5619,Other Clerical and Office Support Workers,5,96.7,42616,0.6,Clerical and Office Support Workers,Clerical and Administrative Workers
+1989,5619,Other Clerical and Office Support Workers,5,96.7,40721,0.55,Clerical and Office Support Workers,Clerical and Administrative Workers
+1990,5619,Other Clerical and Office Support Workers,5,96.7,48587,0.64,Clerical and Office Support Workers,Clerical and Administrative Workers
+1991,5619,Other Clerical and Office Support Workers,5,96.7,46776,0.64,Clerical and Office Support Workers,Clerical and Administrative Workers
+1992,5619,Other Clerical and Office Support Workers,5,96.7,42083,0.58,Clerical and Office Support Workers,Clerical and Administrative Workers
+1993,5619,Other Clerical and Office Support Workers,5,96.7,23595,0.32,Clerical and Office Support Workers,Clerical and Administrative Workers
+1994,5619,Other Clerical and Office Support Workers,5,96.7,19492,0.25,Clerical and Office Support Workers,Clerical and Administrative Workers
+1995,5619,Other Clerical and Office Support Workers,5,96.7,16831,0.21,Clerical and Office Support Workers,Clerical and Administrative Workers
+1996,5619,Other Clerical and Office Support Workers,5,96.7,13094,0.16,Clerical and Office Support Workers,Clerical and Administrative Workers
+1997,5619,Other Clerical and Office Support Workers,5,96.7,6353,0.07,Clerical and Office Support Workers,Clerical and Administrative Workers
+1998,5619,Other Clerical and Office Support Workers,5,96.7,5962,0.07,Clerical and Office Support Workers,Clerical and Administrative Workers
+1999,5619,Other Clerical and Office Support Workers,5,96.7,5620,0.06,Clerical and Office Support Workers,Clerical and Administrative Workers
+2000,5619,Other Clerical and Office Support Workers,5,96.7,6977,0.08,Clerical and Office Support Workers,Clerical and Administrative Workers
+2001,5619,Other Clerical and Office Support Workers,5,96.7,10945,0.12,Clerical and Office Support Workers,Clerical and Administrative Workers
+2002,5619,Other Clerical and Office Support Workers,5,96.7,7303,0.08,Clerical and Office Support Workers,Clerical and Administrative Workers
+2003,5619,Other Clerical and Office Support Workers,5,96.7,9911,0.11,Clerical and Office Support Workers,Clerical and Administrative Workers
+2004,5619,Other Clerical and Office Support Workers,5,96.7,9775,0.1,Clerical and Office Support Workers,Clerical and Administrative Workers
+2005,5619,Other Clerical and Office Support Workers,5,96.7,11251,0.12,Clerical and Office Support Workers,Clerical and Administrative Workers
+2006,5619,Other Clerical and Office Support Workers,5,96.7,11249,0.11,Clerical and Office Support Workers,Clerical and Administrative Workers
+2007,5619,Other Clerical and Office Support Workers,5,96.7,9767,0.09,Clerical and Office Support Workers,Clerical and Administrative Workers
+2008,5619,Other Clerical and Office Support Workers,5,96.7,9663,0.09,Clerical and Office Support Workers,Clerical and Administrative Workers
+2009,5619,Other Clerical and Office Support Workers,5,96.7,9387,0.09,Clerical and Office Support Workers,Clerical and Administrative Workers
+2010,5619,Other Clerical and Office Support Workers,5,96.7,8259,0.07,Clerical and Office Support Workers,Clerical and Administrative Workers
+2011,5619,Other Clerical and Office Support Workers,5,96.7,13100,0.12,Clerical and Office Support Workers,Clerical and Administrative Workers
+2012,5619,Other Clerical and Office Support Workers,5,96.7,6814,0.06,Clerical and Office Support Workers,Clerical and Administrative Workers
+2013,5619,Other Clerical and Office Support Workers,5,96.7,7323,0.06,Clerical and Office Support Workers,Clerical and Administrative Workers
+2014,5619,Other Clerical and Office Support Workers,5,96.7,6571,0.06,Clerical and Office Support Workers,Clerical and Administrative Workers
+2015,5619,Other Clerical and Office Support Workers,5,96.7,6860,0.06,Clerical and Office Support Workers,Clerical and Administrative Workers
+2016,5619,Other Clerical and Office Support Workers,5,96.7,9499,0.08,Clerical and Office Support Workers,Clerical and Administrative Workers
+2017,5619,Other Clerical and Office Support Workers,5,96.7,9834,0.08,Clerical and Office Support Workers,Clerical and Administrative Workers
+2018,5619,Other Clerical and Office Support Workers,5,96.7,6377,0.05,Clerical and Office Support Workers,Clerical and Administrative Workers
+1988,6113,Sales Representatives,4,77.9,70335,1,Sales Representatives and Agents,Sales Workers
+1989,6113,Sales Representatives,4,77.9,82920,1.12,Sales Representatives and Agents,Sales Workers
+1990,6113,Sales Representatives,4,77.9,87967,1.17,Sales Representatives and Agents,Sales Workers
+1991,6113,Sales Representatives,4,77.9,88122,1.2,Sales Representatives and Agents,Sales Workers
+1992,6113,Sales Representatives,4,77.9,85983,1.18,Sales Representatives and Agents,Sales Workers
+1993,6113,Sales Representatives,4,77.9,88120,1.21,Sales Representatives and Agents,Sales Workers
+1994,6113,Sales Representatives,4,77.9,83425,1.11,Sales Representatives and Agents,Sales Workers
+1995,6113,Sales Representatives,4,77.9,95392,1.22,Sales Representatives and Agents,Sales Workers
+1996,6113,Sales Representatives,4,77.9,92582,1.17,Sales Representatives and Agents,Sales Workers
+1997,6113,Sales Representatives,4,77.9,82775,1.04,Sales Representatives and Agents,Sales Workers
+1998,6113,Sales Representatives,4,77.9,84355,1.04,Sales Representatives and Agents,Sales Workers
+1999,6113,Sales Representatives,4,77.9,94626,1.14,Sales Representatives and Agents,Sales Workers
+2000,6113,Sales Representatives,4,77.9,101294,1.19,Sales Representatives and Agents,Sales Workers
+2001,6113,Sales Representatives,4,77.9,89134,1.03,Sales Representatives and Agents,Sales Workers
+2002,6113,Sales Representatives,4,77.9,91871,1.05,Sales Representatives and Agents,Sales Workers
+2003,6113,Sales Representatives,4,77.9,92129,1.03,Sales Representatives and Agents,Sales Workers
+2004,6113,Sales Representatives,4,77.9,83056,0.92,Sales Representatives and Agents,Sales Workers
+2005,6113,Sales Representatives,4,77.9,96842,1.04,Sales Representatives and Agents,Sales Workers
+2006,6113,Sales Representatives,4,77.9,101932,1.06,Sales Representatives and Agents,Sales Workers
+2007,6113,Sales Representatives,4,77.9,95149,0.96,Sales Representatives and Agents,Sales Workers
+2008,6113,Sales Representatives,4,77.9,97936,0.96,Sales Representatives and Agents,Sales Workers
+2009,6113,Sales Representatives,4,77.9,99975,0.98,Sales Representatives and Agents,Sales Workers
+2010,6113,Sales Representatives,4,77.9,104439,1.01,Sales Representatives and Agents,Sales Workers
+2011,6113,Sales Representatives,4,77.9,105681,1,Sales Representatives and Agents,Sales Workers
+2012,6113,Sales Representatives,4,77.9,95954,0.9,Sales Representatives and Agents,Sales Workers
+2013,6113,Sales Representatives,4,77.9,94285,0.88,Sales Representatives and Agents,Sales Workers
+2014,6113,Sales Representatives,4,77.9,91832,0.85,Sales Representatives and Agents,Sales Workers
+2015,6113,Sales Representatives,4,77.9,93519,0.85,Sales Representatives and Agents,Sales Workers
+2016,6113,Sales Representatives,4,77.9,96134,0.86,Sales Representatives and Agents,Sales Workers
+2017,6113,Sales Representatives,4,77.9,87168,0.76,Sales Representatives and Agents,Sales Workers
+2018,6113,Sales Representatives,4,77.9,90409,0.76,Sales Representatives and Agents,Sales Workers
+1988,6211,Sales Assistants (General),5,91.7,320027,4.55,Sales Assistants and Salespersons,Sales Workers
+1989,6211,Sales Assistants (General),5,91.7,338473,4.59,Sales Assistants and Salespersons,Sales Workers
+1990,6211,Sales Assistants (General),5,91.7,361664,4.83,Sales Assistants and Salespersons,Sales Workers
+1991,6211,Sales Assistants (General),5,91.7,343919,4.71,Sales Assistants and Salespersons,Sales Workers
+1992,6211,Sales Assistants (General),5,91.7,348614,4.81,Sales Assistants and Salespersons,Sales Workers
+1993,6211,Sales Assistants (General),5,91.7,351227,4.83,Sales Assistants and Salespersons,Sales Workers
+1994,6211,Sales Assistants (General),5,91.7,380282,5.07,Sales Assistants and Salespersons,Sales Workers
+1995,6211,Sales Assistants (General),5,91.7,404264,5.19,Sales Assistants and Salespersons,Sales Workers
+1996,6211,Sales Assistants (General),5,91.7,421690,5.34,Sales Assistants and Salespersons,Sales Workers
+1997,6211,Sales Assistants (General),5,91.7,425369,5.35,Sales Assistants and Salespersons,Sales Workers
+1998,6211,Sales Assistants (General),5,91.7,434269,5.37,Sales Assistants and Salespersons,Sales Workers
+1999,6211,Sales Assistants (General),5,91.7,430310,5.22,Sales Assistants and Salespersons,Sales Workers
+2000,6211,Sales Assistants (General),5,91.7,434035,5.13,Sales Assistants and Salespersons,Sales Workers
+2001,6211,Sales Assistants (General),5,91.7,450106,5.25,Sales Assistants and Salespersons,Sales Workers
+2002,6211,Sales Assistants (General),5,91.7,462708,5.29,Sales Assistants and Salespersons,Sales Workers
+2003,6211,Sales Assistants (General),5,91.7,476944,5.33,Sales Assistants and Salespersons,Sales Workers
+2004,6211,Sales Assistants (General),5,91.7,490501,5.44,Sales Assistants and Salespersons,Sales Workers
+2005,6211,Sales Assistants (General),5,91.7,504781,5.43,Sales Assistants and Salespersons,Sales Workers
+2006,6211,Sales Assistants (General),5,91.7,482425,5.04,Sales Assistants and Salespersons,Sales Workers
+2007,6211,Sales Assistants (General),5,91.7,459614,4.66,Sales Assistants and Salespersons,Sales Workers
+2008,6211,Sales Assistants (General),5,91.7,461680,4.55,Sales Assistants and Salespersons,Sales Workers
+2009,6211,Sales Assistants (General),5,91.7,464680,4.57,Sales Assistants and Salespersons,Sales Workers
+2010,6211,Sales Assistants (General),5,91.7,494689,4.78,Sales Assistants and Salespersons,Sales Workers
+2011,6211,Sales Assistants (General),5,91.7,494864,4.7,Sales Assistants and Salespersons,Sales Workers
+2012,6211,Sales Assistants (General),5,91.7,492845,4.63,Sales Assistants and Salespersons,Sales Workers
+2013,6211,Sales Assistants (General),5,91.7,514334,4.81,Sales Assistants and Salespersons,Sales Workers
+2014,6211,Sales Assistants (General),5,91.7,522719,4.88,Sales Assistants and Salespersons,Sales Workers
+2015,6211,Sales Assistants (General),5,91.7,541455,4.96,Sales Assistants and Salespersons,Sales Workers
+2016,6211,Sales Assistants (General),5,91.7,520442,4.7,Sales Assistants and Salespersons,Sales Workers
+2017,6211,Sales Assistants (General),5,91.7,533913,4.67,Sales Assistants and Salespersons,Sales Workers
+2018,6211,Sales Assistants (General),5,91.7,518597,4.4,Sales Assistants and Salespersons,Sales Workers
+1988,6217,Street Vendors and Related Salespersons,5,94,11902,0.16,Sales Assistants and Salespersons,Sales Workers
+1989,6217,Street Vendors and Related Salespersons,5,94,13268,0.18,Sales Assistants and Salespersons,Sales Workers
+1990,6217,Street Vendors and Related Salespersons,5,94,12907,0.17,Sales Assistants and Salespersons,Sales Workers
+1991,6217,Street Vendors and Related Salespersons,5,94,14655,0.2,Sales Assistants and Salespersons,Sales Workers
+1992,6217,Street Vendors and Related Salespersons,5,94,16282,0.22,Sales Assistants and Salespersons,Sales Workers
+1993,6217,Street Vendors and Related Salespersons,5,94,15167,0.2,Sales Assistants and Salespersons,Sales Workers
+1994,6217,Street Vendors and Related Salespersons,5,94,13001,0.17,Sales Assistants and Salespersons,Sales Workers
+1995,6217,Street Vendors and Related Salespersons,5,94,12489,0.16,Sales Assistants and Salespersons,Sales Workers
+1996,6217,Street Vendors and Related Salespersons,5,94,18912,0.23,Sales Assistants and Salespersons,Sales Workers
+1997,6217,Street Vendors and Related Salespersons,5,94,25724,0.32,Sales Assistants and Salespersons,Sales Workers
+1998,6217,Street Vendors and Related Salespersons,5,94,23237,0.28,Sales Assistants and Salespersons,Sales Workers
+1999,6217,Street Vendors and Related Salespersons,5,94,23407,0.28,Sales Assistants and Salespersons,Sales Workers
+2000,6217,Street Vendors and Related Salespersons,5,94,23586,0.27,Sales Assistants and Salespersons,Sales Workers
+2001,6217,Street Vendors and Related Salespersons,5,94,14306,0.16,Sales Assistants and Salespersons,Sales Workers
+2002,6217,Street Vendors and Related Salespersons,5,94,16072,0.18,Sales Assistants and Salespersons,Sales Workers
+2003,6217,Street Vendors and Related Salespersons,5,94,13767,0.15,Sales Assistants and Salespersons,Sales Workers
+2004,6217,Street Vendors and Related Salespersons,5,94,16109,0.17,Sales Assistants and Salespersons,Sales Workers
+2005,6217,Street Vendors and Related Salespersons,5,94,14360,0.15,Sales Assistants and Salespersons,Sales Workers
+2006,6217,Street Vendors and Related Salespersons,5,94,11378,0.11,Sales Assistants and Salespersons,Sales Workers
+2007,6217,Street Vendors and Related Salespersons,5,94,13306,0.13,Sales Assistants and Salespersons,Sales Workers
+2008,6217,Street Vendors and Related Salespersons,5,94,9515,0.09,Sales Assistants and Salespersons,Sales Workers
+2009,6217,Street Vendors and Related Salespersons,5,94,10192,0.1,Sales Assistants and Salespersons,Sales Workers
+2010,6217,Street Vendors and Related Salespersons,5,94,10588,0.1,Sales Assistants and Salespersons,Sales Workers
+2011,6217,Street Vendors and Related Salespersons,5,94,10158,0.09,Sales Assistants and Salespersons,Sales Workers
+2012,6217,Street Vendors and Related Salespersons,5,94,11702,0.11,Sales Assistants and Salespersons,Sales Workers
+2013,6217,Street Vendors and Related Salespersons,5,94,8517,0.07,Sales Assistants and Salespersons,Sales Workers
+2014,6217,Street Vendors and Related Salespersons,5,94,7204,0.06,Sales Assistants and Salespersons,Sales Workers
+2015,6217,Street Vendors and Related Salespersons,5,94,10126,0.09,Sales Assistants and Salespersons,Sales Workers
+2016,6217,Street Vendors and Related Salespersons,5,94,8543,0.07,Sales Assistants and Salespersons,Sales Workers
+2017,6217,Street Vendors and Related Salespersons,5,94,10053,0.08,Sales Assistants and Salespersons,Sales Workers
+2018,6217,Street Vendors and Related Salespersons,5,94,7890,0.06,Sales Assistants and Salespersons,Sales Workers
+1988,7213,Forklift Drivers,4,91,27071,0.38,Mobile Plant Operators,Machinery Operators and Drivers
+1989,7213,Forklift Drivers,4,91,31684,0.43,Mobile Plant Operators,Machinery Operators and Drivers
+1990,7213,Forklift Drivers,4,91,30108,0.4,Mobile Plant Operators,Machinery Operators and Drivers
+1991,7213,Forklift Drivers,4,91,30273,0.41,Mobile Plant Operators,Machinery Operators and Drivers
+1992,7213,Forklift Drivers,4,91,29443,0.4,Mobile Plant Operators,Machinery Operators and Drivers
+1993,7213,Forklift Drivers,4,91,30080,0.41,Mobile Plant Operators,Machinery Operators and Drivers
+1994,7213,Forklift Drivers,4,91,35485,0.47,Mobile Plant Operators,Machinery Operators and Drivers
+1995,7213,Forklift Drivers,4,91,36353,0.46,Mobile Plant Operators,Machinery Operators and Drivers
+1996,7213,Forklift Drivers,4,91,37008,0.46,Mobile Plant Operators,Machinery Operators and Drivers
+1997,7213,Forklift Drivers,4,91,38044,0.47,Mobile Plant Operators,Machinery Operators and Drivers
+1998,7213,Forklift Drivers,4,91,39053,0.48,Mobile Plant Operators,Machinery Operators and Drivers
+1999,7213,Forklift Drivers,4,91,40428,0.49,Mobile Plant Operators,Machinery Operators and Drivers
+2000,7213,Forklift Drivers,4,91,41963,0.49,Mobile Plant Operators,Machinery Operators and Drivers
+2001,7213,Forklift Drivers,4,91,45571,0.53,Mobile Plant Operators,Machinery Operators and Drivers
+2002,7213,Forklift Drivers,4,91,47679,0.54,Mobile Plant Operators,Machinery Operators and Drivers
+2003,7213,Forklift Drivers,4,91,48395,0.54,Mobile Plant Operators,Machinery Operators and Drivers
+2004,7213,Forklift Drivers,4,91,51631,0.57,Mobile Plant Operators,Machinery Operators and Drivers
+2005,7213,Forklift Drivers,4,91,55055,0.59,Mobile Plant Operators,Machinery Operators and Drivers
+2006,7213,Forklift Drivers,4,91,53782,0.56,Mobile Plant Operators,Machinery Operators and Drivers
+2007,7213,Forklift Drivers,4,91,58497,0.59,Mobile Plant Operators,Machinery Operators and Drivers
+2008,7213,Forklift Drivers,4,91,59672,0.58,Mobile Plant Operators,Machinery Operators and Drivers
+2009,7213,Forklift Drivers,4,91,57145,0.56,Mobile Plant Operators,Machinery Operators and Drivers
+2010,7213,Forklift Drivers,4,91,59892,0.57,Mobile Plant Operators,Machinery Operators and Drivers
+2011,7213,Forklift Drivers,4,91,63497,0.6,Mobile Plant Operators,Machinery Operators and Drivers
+2012,7213,Forklift Drivers,4,91,66394,0.62,Mobile Plant Operators,Machinery Operators and Drivers
+2013,7213,Forklift Drivers,4,91,57241,0.53,Mobile Plant Operators,Machinery Operators and Drivers
+2014,7213,Forklift Drivers,4,91,57248,0.53,Mobile Plant Operators,Machinery Operators and Drivers
+2015,7213,Forklift Drivers,4,91,59361,0.54,Mobile Plant Operators,Machinery Operators and Drivers
+2016,7213,Forklift Drivers,4,91,55496,0.5,Mobile Plant Operators,Machinery Operators and Drivers
+2017,7213,Forklift Drivers,4,91,55272,0.48,Mobile Plant Operators,Machinery Operators and Drivers
+2018,7213,Forklift Drivers,4,91,65784,0.55,Mobile Plant Operators,Machinery Operators and Drivers
+1988,7331,Truck Drivers,4,78.4,123825,1.76,Road and Rail Drivers,Machinery Operators and Drivers
+1989,7331,Truck Drivers,4,78.4,128832,1.74,Road and Rail Drivers,Machinery Operators and Drivers
+1990,7331,Truck Drivers,4,78.4,133050,1.77,Road and Rail Drivers,Machinery Operators and Drivers
+1991,7331,Truck Drivers,4,78.4,128498,1.76,Road and Rail Drivers,Machinery Operators and Drivers
+1992,7331,Truck Drivers,4,78.4,126705,1.74,Road and Rail Drivers,Machinery Operators and Drivers
+1993,7331,Truck Drivers,4,78.4,131525,1.81,Road and Rail Drivers,Machinery Operators and Drivers
+1994,7331,Truck Drivers,4,78.4,136483,1.82,Road and Rail Drivers,Machinery Operators and Drivers
+1995,7331,Truck Drivers,4,78.4,140862,1.8,Road and Rail Drivers,Machinery Operators and Drivers
+1996,7331,Truck Drivers,4,78.4,142272,1.8,Road and Rail Drivers,Machinery Operators and Drivers
+1997,7331,Truck Drivers,4,78.4,143212,1.8,Road and Rail Drivers,Machinery Operators and Drivers
+1998,7331,Truck Drivers,4,78.4,144107,1.78,Road and Rail Drivers,Machinery Operators and Drivers
+1999,7331,Truck Drivers,4,78.4,148796,1.8,Road and Rail Drivers,Machinery Operators and Drivers
+2000,7331,Truck Drivers,4,78.4,137877,1.63,Road and Rail Drivers,Machinery Operators and Drivers
+2001,7331,Truck Drivers,4,78.4,153006,1.78,Road and Rail Drivers,Machinery Operators and Drivers
+2002,7331,Truck Drivers,4,78.4,146869,1.67,Road and Rail Drivers,Machinery Operators and Drivers
+2003,7331,Truck Drivers,4,78.4,154893,1.73,Road and Rail Drivers,Machinery Operators and Drivers
+2004,7331,Truck Drivers,4,78.4,154806,1.71,Road and Rail Drivers,Machinery Operators and Drivers
+2005,7331,Truck Drivers,4,78.4,152289,1.63,Road and Rail Drivers,Machinery Operators and Drivers
+2006,7331,Truck Drivers,4,78.4,160596,1.67,Road and Rail Drivers,Machinery Operators and Drivers
+2007,7331,Truck Drivers,4,78.4,162734,1.65,Road and Rail Drivers,Machinery Operators and Drivers
+2008,7331,Truck Drivers,4,78.4,171032,1.68,Road and Rail Drivers,Machinery Operators and Drivers
+2009,7331,Truck Drivers,4,78.4,169169,1.66,Road and Rail Drivers,Machinery Operators and Drivers
+2010,7331,Truck Drivers,4,78.4,164106,1.58,Road and Rail Drivers,Machinery Operators and Drivers
+2011,7331,Truck Drivers,4,78.4,169100,1.6,Road and Rail Drivers,Machinery Operators and Drivers
+2012,7331,Truck Drivers,4,78.4,170116,1.59,Road and Rail Drivers,Machinery Operators and Drivers
+2013,7331,Truck Drivers,4,78.4,177145,1.65,Road and Rail Drivers,Machinery Operators and Drivers
+2014,7331,Truck Drivers,4,78.4,175903,1.64,Road and Rail Drivers,Machinery Operators and Drivers
+2015,7331,Truck Drivers,4,78.4,178775,1.63,Road and Rail Drivers,Machinery Operators and Drivers
+2016,7331,Truck Drivers,4,78.4,189507,1.71,Road and Rail Drivers,Machinery Operators and Drivers
+2017,7331,Truck Drivers,4,78.4,195246,1.7,Road and Rail Drivers,Machinery Operators and Drivers
+2018,7331,Truck Drivers,4,78.4,204285,1.73,Road and Rail Drivers,Machinery Operators and Drivers
+1988,7411,Storepersons,4,76.4,61912,0.88,Storepersons,Machinery Operators and Drivers
+1989,7411,Storepersons,4,76.4,65287,0.88,Storepersons,Machinery Operators and Drivers
+1990,7411,Storepersons,4,76.4,60928,0.81,Storepersons,Machinery Operators and Drivers
+1991,7411,Storepersons,4,76.4,57268,0.78,Storepersons,Machinery Operators and Drivers
+1992,7411,Storepersons,4,76.4,58905,0.81,Storepersons,Machinery Operators and Drivers
+1993,7411,Storepersons,4,76.4,57852,0.79,Storepersons,Machinery Operators and Drivers
+1994,7411,Storepersons,4,76.4,60130,0.8,Storepersons,Machinery Operators and Drivers
+1995,7411,Storepersons,4,76.4,63455,0.81,Storepersons,Machinery Operators and Drivers
+1996,7411,Storepersons,4,76.4,65017,0.82,Storepersons,Machinery Operators and Drivers
+1997,7411,Storepersons,4,76.4,68200,0.85,Storepersons,Machinery Operators and Drivers
+1998,7411,Storepersons,4,76.4,67087,0.82,Storepersons,Machinery Operators and Drivers
+1999,7411,Storepersons,4,76.4,67798,0.82,Storepersons,Machinery Operators and Drivers
+2000,7411,Storepersons,4,76.4,67389,0.79,Storepersons,Machinery Operators and Drivers
+2001,7411,Storepersons,4,76.4,67150,0.78,Storepersons,Machinery Operators and Drivers
+2002,7411,Storepersons,4,76.4,72200,0.82,Storepersons,Machinery Operators and Drivers
+2003,7411,Storepersons,4,76.4,73506,0.82,Storepersons,Machinery Operators and Drivers
+2004,7411,Storepersons,4,76.4,73495,0.81,Storepersons,Machinery Operators and Drivers
+2005,7411,Storepersons,4,76.4,84408,0.9,Storepersons,Machinery Operators and Drivers
+2006,7411,Storepersons,4,76.4,97976,1.02,Storepersons,Machinery Operators and Drivers
+2007,7411,Storepersons,4,76.4,114377,1.16,Storepersons,Machinery Operators and Drivers
+2008,7411,Storepersons,4,76.4,114966,1.13,Storepersons,Machinery Operators and Drivers
+2009,7411,Storepersons,4,76.4,105849,1.04,Storepersons,Machinery Operators and Drivers
+2010,7411,Storepersons,4,76.4,106812,1.03,Storepersons,Machinery Operators and Drivers
+2011,7411,Storepersons,4,76.4,118949,1.12,Storepersons,Machinery Operators and Drivers
+2012,7411,Storepersons,4,76.4,116471,1.09,Storepersons,Machinery Operators and Drivers
+2013,7411,Storepersons,4,76.4,121721,1.13,Storepersons,Machinery Operators and Drivers
+2014,7411,Storepersons,4,76.4,123719,1.15,Storepersons,Machinery Operators and Drivers
+2015,7411,Storepersons,4,76.4,128393,1.17,Storepersons,Machinery Operators and Drivers
+2016,7411,Storepersons,4,76.4,125191,1.13,Storepersons,Machinery Operators and Drivers
+2017,7411,Storepersons,4,76.4,122590,1.07,Storepersons,Machinery Operators and Drivers
+2018,7411,Storepersons,4,76.4,132584,1.12,Storepersons,Machinery Operators and Drivers
