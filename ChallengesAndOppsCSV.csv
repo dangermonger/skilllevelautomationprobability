@@ -1,21 +1,20 @@
-Keyword,Training Package Count,Instances
-Data,36,319
-Digital,38,277
-Cybersecurity,18,184
-Automation,36,144
+Keyword,Skills Forecast Count,Instances
+Data,41,319
+Digital,37,277
+Automation,34,193
+Cybersecurity,17,184
 Digital Literacy,22,110
 Big data,19,73
-Data analytics,23,72
-Online,17,57
-Autonomous,12,49
-Computing,20,40
+Data analytics,24,72
+Online,16,57
+Computing,21,40
 AI,20,38
-Programming,16,31
-Robotics,17,29
-Software,12,25
+Programming,17,31
+Robotics,16,29
+Software,13,25
 VR/AR,15,21
-Internet,15,21
-Mobile,12,20
-Cloud,13,19
-IoT,11,19
+Internet,13,21
+Mobile,10,20
+IoT,12,19
+Cloud,14,19
 Wireless,4,7
